@@ -1,7 +1,7 @@
 import { NativeScriptConfig } from "@nativescript/core";
 
 export default {
-  id: "me.nadetdev.quotesApp",
+  id: "org.nativescript.quotesApp",
   appPath: "app",
   appResourcesPath: "App_Resources",
   android: {
